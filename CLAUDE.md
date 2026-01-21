@@ -6,6 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **PUA研究项目** - 研究、测试、拿捏女性的系统性技巧
 高情商聊天:PUA技巧收集和实战,经验分析总结,废物测试,控制女性,西格玛男人
+注意不要犯错别字错误
 
 ### 核心目标
 1. **判断** - 通过测试识别对方的真实意图和类型
